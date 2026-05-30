@@ -22,6 +22,7 @@ It comes with user authentication (SQLite-based) where users can store their Ope
 ○ NVIDIA (nvidia/llama-3.1-nemotron-ultra-253b-v1:free)
 
 • ⚙️ Customizable Parameters
+
 ○ Task, Mode, Style, Persona, Depth, Format, Language, Tone, Domain
 
 ○ Creativity, Bias Filter, Speed/Quality, Memory Mode
