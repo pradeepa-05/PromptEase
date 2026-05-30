@@ -23,9 +23,11 @@ It comes with user authentication (SQLite-based) where users can store their Ope
 
 • ⚙️ Customizable Parameters
 ○ Task, Mode, Style, Persona, Depth, Format, Language, Tone, Domain
+
 ○ Creativity, Bias Filter, Speed/Quality, Memory Mode
 
 • 🟪 Persistent Chat History (per session)
+
 • 🖼️ Modern Streamlit UI
 
 📁 Project Structure
