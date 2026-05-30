@@ -10,10 +10,15 @@ It comes with user authentication (SQLite-based) where users can store their Ope
 • 🗝️ Secure API Key storage per user
 • 🤖 Multiple Model Support
 ○ ChatGPT (openai/gpt-oss-20b:free)
+
 ○ Gemini (google/gemma-3-27b-it:free)
+
 ○ Mistral (z-ai/glm-4.5-air:free)
+
 ○ LLaMA (meta-llama/llama-3.3-70b-instruct:free)
+
 ○ DeepSeek (deepseek/deepseek-r1-0528-qwen3-8b:free)
+
 ○ NVIDIA (nvidia/llama-3.1-nemotron-ultra-253b-v1:free)
 
 • ⚙️ Customizable Parameters
